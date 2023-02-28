@@ -1,0 +1,83 @@
+{
+    "items": [
+        {
+            "img_url": "https://kirbiecravings.com/wp-content/uploads/2018/02/garlic-noodles-61.jpg",
+            "name": "Noodles",
+            "price": 90.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/OIP.AAeMOleCsTZ6bN_MA_cQqQHaEK?pid=ImgDet&rs=1",
+            "name": "Dosa",
+            "price": 50.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/R.9a89b359807f921a7e510a280366c2dd?rik=tis31mEwT0edbQ&riu=http%3a%2f%2fleaveurmark.com%2fwp-content%2fuploads%2f2015%2f05%2fvada.jpg&ehk=GgC7xDYe9redbGElNWchr1HF%2bViN5JcMH0d0hg4tF9w%3d&risl=&pid=ImgRaw&r=0",
+            "name": "Vada",
+            "price": 20.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://i1.wp.com/chakriskitchen.com/wp-content/uploads/2018/12/Idly19.jpg?fit=600%2C800&ssl=1",
+            "name": "Idly",
+            "price": 10.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/OIP.iABVK73UYywVNC4mweoCjgHaGN?pid=ImgDet&rs=1",
+            "name": "Chappathi",
+            "price": 32.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://img.dmart.in/images/rwd/products/K/W/A/KWATER250mlBSLR16XX11218_1_B.jpg",
+            "name": "bisleri",
+            "price": 12.0,
+            "category":"Others",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/OIP.zv0NmlsRJkFAjfzHt2ohSQHaGY?pid=ImgDet&rs=1",
+            "name": "veg rice",
+            "price": 100.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://recipes.timesofindia.com/photo/60032965.cms",
+            "name": "Kesari",
+            "price": 50.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://2.bp.blogspot.com/-MN6150-2hzs/UBbkPdCbnvI/AAAAAAAARig/oyme3LHfpMQ/s1600/bn+plain.jpg",
+            "name": "Butter Naan",
+            "price": 70.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/OIP.WqFtwGUCnb_f16alroPquwAAAA?pid=ImgDet&rs=1",
+            "name": "Panner Masala",
+            "price": 170.0,
+            "category":"Main Course",
+            "type":"veg"
+        },
+        {
+            "img_url": "https://th.bing.com/th/id/OIP.WqFtwGUCnb_f16alroPquwAAAA?pid=ImgDet&rs=1",
+            "name": "Chicken Masala",
+            "price": 270.0,
+            "category":"Main Course",
+            "type":"non-veg"
+        }
+        
+
+    ]
+}
